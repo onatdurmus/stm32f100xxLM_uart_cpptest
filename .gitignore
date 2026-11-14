@@ -1,0 +1,9 @@
+# Keil build outputs
+Listings/
+Objects/
+
+# Keil GUI settings
+*.uvguix.*
+
+#macOS
+.DS_Store
